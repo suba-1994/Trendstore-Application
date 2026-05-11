@@ -10,7 +10,7 @@ pipeline {
 
         stage('Clone Repository') {
             steps {
-                git 'https://github.com/Vennilavanguri/Trend.git'
+                git 'https://github.com/suba-1994/Trendstore-Application.git'
             }
         }
 
