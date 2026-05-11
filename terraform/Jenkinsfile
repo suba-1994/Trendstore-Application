@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        DOCKER_IMAGE = 'subashree94/trendstore-app'
+        DOCKER_IMAGE = 'subashreedocker/trendstore-app'
     }
 
     stages {
